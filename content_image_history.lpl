@@ -8,7 +8,7 @@
   "sort_mode": 2,
   "items": [
     {
-      "path": "D:\\Games\\RetroArch\\screenshots\\261_Dune-2015.Order-200420-131845.png",
+      "path": ".\\screenshots\\261_Dune-2015.Order-200420-131845.png",
       "label": "",
       "core_path": "builtin",
       "core_name": "imageviewer",
@@ -16,7 +16,7 @@
       "db_name": ""
     },
     {
-      "path": "D:\\Games\\RetroArch\\screenshots\\261_Dune-2015.Order-200420-133637.png",
+      "path": ".\\screenshots\\261_Dune-2015.Order-200420-133637.png",
       "label": "",
       "core_path": "builtin",
       "core_name": "imageviewer",
@@ -24,7 +24,7 @@
       "db_name": ""
     },
     {
-      "path": "D:\\Games\\RetroArch\\screenshots\\261_Dune-2015.Order-200420-133934.png",
+      "path": ".\\screenshots\\261_Dune-2015.Order-200420-133934.png",
       "label": "",
       "core_path": "builtin",
       "core_name": "imageviewer",
@@ -32,7 +32,7 @@
       "db_name": ""
     },
     {
-      "path": "D:\\Games\\RetroArch\\screenshots\\261_Dune-2015.Order-200420-150125.png",
+      "path": ".\\screenshots\\261_Dune-2015.Order-200420-150125.png",
       "label": "",
       "core_path": "builtin",
       "core_name": "imageviewer",
@@ -40,7 +40,7 @@
       "db_name": ""
     },
     {
-      "path": "D:\\Games\\RetroArch\\screenshots\\Akumajou Dracula (J) [!]-200421-160219.png",
+      "path": ".\\screenshots\\Akumajou Dracula (J) [!]-200421-160219.png",
       "label": "",
       "core_path": "builtin",
       "core_name": "imageviewer",
@@ -48,7 +48,7 @@
       "db_name": ""
     },
     {
-      "path": "D:\\Games\\RetroArch\\screenshots\\Akumajou Dracula (J) [!]-200421-162126.png",
+      "path": ".\\screenshots\\Akumajou Dracula (J) [!]-200421-162126.png",
       "label": "",
       "core_path": "builtin",
       "core_name": "imageviewer",
@@ -56,7 +56,7 @@
       "db_name": ""
     },
     {
-      "path": "D:\\Games\\RetroArch\\screenshots\\Akumajou Dracula (J) [!]-200421-212950.png",
+      "path": ".\\screenshots\\Akumajou Dracula (J) [!]-200421-212950.png",
       "label": "",
       "core_path": "builtin",
       "core_name": "imageviewer",
@@ -64,7 +64,7 @@
       "db_name": ""
     },
     {
-      "path": "D:\\Games\\RetroArch\\screenshots\\Akumajou Dracula (J) [!]-200421-221137.png",
+      "path": ".\\screenshots\\Akumajou Dracula (J) [!]-200421-221137.png",
       "label": "",
       "core_path": "builtin",
       "core_name": "imageviewer",
@@ -72,7 +72,7 @@
       "db_name": ""
     },
     {
-      "path": "D:\\Games\\RetroArch\\screenshots\\Akumajou Dracula (J) [!]-200422-231824.png",
+      "path": ".\\screenshots\\Akumajou Dracula (J) [!]-200422-231824.png",
       "label": "",
       "core_path": "builtin",
       "core_name": "imageviewer",
@@ -80,7 +80,7 @@
       "db_name": ""
     },
     {
-      "path": "D:\\Games\\RetroArch\\screenshots\\Akumajou Dracula (J) [!]-200423-213539.png",
+      "path": ".\\screenshots\\Akumajou Dracula (J) [!]-200423-213539.png",
       "label": "",
       "core_path": "builtin",
       "core_name": "imageviewer",
@@ -88,7 +88,7 @@
       "db_name": ""
     },
     {
-      "path": "D:\\Games\\RetroArch\\screenshots\\Akumajou Dracula (J) [!]-200423-235810.png",
+      "path": ".\\screenshots\\Akumajou Dracula (J) [!]-200423-235810.png",
       "label": "",
       "core_path": "builtin",
       "core_name": "imageviewer",
@@ -96,7 +96,7 @@
       "db_name": ""
     },
     {
-      "path": "D:\\Games\\RetroArch\\screenshots\\Akumajou Dracula (J) [!]-200426-213739.png",
+      "path": ".\\screenshots\\Akumajou Dracula (J) [!]-200426-213739.png",
       "label": "",
       "core_path": "builtin",
       "core_name": "imageviewer",
@@ -104,7 +104,7 @@
       "db_name": ""
     },
     {
-      "path": "D:\\Games\\RetroArch\\screenshots\\Akumajou Dracula (J) [!]-200426-222244.png",
+      "path": ".\\screenshots\\Akumajou Dracula (J) [!]-200426-222244.png",
       "label": "",
       "core_path": "builtin",
       "core_name": "imageviewer",
@@ -112,7 +112,7 @@
       "db_name": ""
     },
     {
-      "path": "D:\\Games\\RetroArch\\screenshots\\Blackthorne (U) [T+Rus_Shed]-200522-152059.png",
+      "path": ".\\screenshots\\Blackthorne (U) [T+Rus_Shed]-200522-152059.png",
       "label": "",
       "core_path": "builtin",
       "core_name": "imageviewer",
@@ -120,7 +120,7 @@
       "db_name": ""
     },
     {
-      "path": "D:\\Games\\RetroArch\\screenshots\\Blackthorne (U) [T+Rus_Shed]-200522-152747.png",
+      "path": ".\\screenshots\\Blackthorne (U) [T+Rus_Shed]-200522-152747.png",
       "label": "",
       "core_path": "builtin",
       "core_name": "imageviewer",
@@ -128,7 +128,7 @@
       "db_name": ""
     },
     {
-      "path": "D:\\Games\\RetroArch\\screenshots\\Blackthorne (U) [T+Rus_Shed]-200522-154623.png",
+      "path": ".\\screenshots\\Blackthorne (U) [T+Rus_Shed]-200522-154623.png",
       "label": "",
       "core_path": "builtin",
       "core_name": "imageviewer",
@@ -136,7 +136,7 @@
       "db_name": ""
     },
     {
-      "path": "D:\\Games\\RetroArch\\screenshots\\Blackthorne (U) [T+Rus_Shed]-200522-161735.png",
+      "path": ".\\screenshots\\Blackthorne (U) [T+Rus_Shed]-200522-161735.png",
       "label": "",
       "core_path": "builtin",
       "core_name": "imageviewer",
@@ -144,7 +144,7 @@
       "db_name": ""
     },
     {
-      "path": "D:\\Games\\RetroArch\\screenshots\\Blackthorne (U) [T+Rus_Shed]-200524-172443.png",
+      "path": ".\\screenshots\\Blackthorne (U) [T+Rus_Shed]-200524-172443.png",
       "label": "",
       "core_path": "builtin",
       "core_name": "imageviewer",
@@ -152,7 +152,7 @@
       "db_name": ""
     },
     {
-      "path": "D:\\Games\\RetroArch\\screenshots\\Blackthorne (U) [T+Rus_Shed]-200524-173840.png",
+      "path": ".\\screenshots\\Blackthorne (U) [T+Rus_Shed]-200524-173840.png",
       "label": "",
       "core_path": "builtin",
       "core_name": "imageviewer",
@@ -160,7 +160,7 @@
       "db_name": ""
     },
     {
-      "path": "D:\\Games\\RetroArch\\screenshots\\Blackthorne (U) [T+Rus_Shed]-200524-175311.png",
+      "path": ".\\screenshots\\Blackthorne (U) [T+Rus_Shed]-200524-175311.png",
       "label": "",
       "core_path": "builtin",
       "core_name": "imageviewer",
@@ -168,7 +168,7 @@
       "db_name": ""
     },
     {
-      "path": "D:\\Games\\RetroArch\\screenshots\\Castlevania - The New Generation (E) [!]-200421-124822.png",
+      "path": ".\\screenshots\\Castlevania - The New Generation (E) [!]-200421-124822.png",
       "label": "",
       "core_path": "builtin",
       "core_name": "imageviewer",
@@ -176,7 +176,7 @@
       "db_name": ""
     },
     {
-      "path": "D:\\Games\\RetroArch\\screenshots\\Pirates of Dark Water, The (U) [T+Rus_grand]-190814-172000.png",
+      "path": ".\\screenshots\\Pirates of Dark Water, The (U) [T+Rus_grand]-190814-172000.png",
       "label": "",
       "core_path": "builtin",
       "core_name": "imageviewer",
@@ -184,7 +184,7 @@
       "db_name": ""
     },
     {
-      "path": "D:\\Games\\RetroArch\\screenshots\\Pirates of Dark Water, The (U) [T+Rus_refrresh]-190815-140421.png",
+      "path": ".\\screenshots\\Pirates of Dark Water, The (U) [T+Rus_refrresh]-190815-140421.png",
       "label": "",
       "core_path": "builtin",
       "core_name": "imageviewer",
@@ -192,7 +192,7 @@
       "db_name": ""
     },
     {
-      "path": "D:\\Games\\RetroArch\\screenshots\\Road Rash 3 (UE) [!]-190219-125146.png",
+      "path": ".\\screenshots\\Road Rash 3 (UE) [!]-190219-125146.png",
       "label": "",
       "core_path": "builtin",
       "core_name": "imageviewer",
@@ -200,7 +200,7 @@
       "db_name": ""
     },
     {
-      "path": "D:\\Games\\RetroArch\\screenshots\\Road Rash 3 (UE) [!]-190219-131527.png",
+      "path": ".\\screenshots\\Road Rash 3 (UE) [!]-190219-131527.png",
       "label": "",
       "core_path": "builtin",
       "core_name": "imageviewer",
@@ -208,7 +208,7 @@
       "db_name": ""
     },
     {
-      "path": "D:\\Games\\RetroArch\\screenshots\\SEGA_261_Dune-2015.Order-190113-202845.png",
+      "path": ".\\screenshots\\SEGA_261_Dune-2015.Order-190113-202845.png",
       "label": "",
       "core_path": "builtin",
       "core_name": "imageviewer",
@@ -216,7 +216,7 @@
       "db_name": ""
     },
     {
-      "path": "D:\\Games\\RetroArch\\screenshots\\Wiz 'n' Liz - The Frantic Wabbit Wescue (U) [!]-190312-155319.png",
+      "path": ".\\screenshots\\Wiz 'n' Liz - The Frantic Wabbit Wescue (U) [!]-190312-155319.png",
       "label": "",
       "core_path": "builtin",
       "core_name": "imageviewer",
@@ -224,7 +224,7 @@
       "db_name": ""
     },
     {
-      "path": "D:\\Games\\RetroArch\\screenshots\\Wiz 'n' Liz - The Frantic Wabbit Wescue (U) [!]-190312-155620.png",
+      "path": ".\\screenshots\\Wiz 'n' Liz - The Frantic Wabbit Wescue (U) [!]-190312-155620.png",
       "label": "",
       "core_path": "builtin",
       "core_name": "imageviewer",
@@ -232,7 +232,7 @@
       "db_name": ""
     },
     {
-      "path": "D:\\Games\\RetroArch\\screenshots\\Zero Tolerance (UE) [!]-200420-220635.png",
+      "path": ".\\screenshots\\Zero Tolerance (UE) [!]-200420-220635.png",
       "label": "",
       "core_path": "builtin",
       "core_name": "imageviewer",
@@ -240,7 +240,7 @@
       "db_name": ""
     },
     {
-      "path": "D:\\Games\\RetroArch\\screenshots\\Zero Tolerance (UE) [!]-200420-222038.png",
+      "path": ".\\screenshots\\Zero Tolerance (UE) [!]-200420-222038.png",
       "label": "",
       "core_path": "builtin",
       "core_name": "imageviewer",
@@ -248,7 +248,7 @@
       "db_name": ""
     },
     {
-      "path": "D:\\Games\\RetroArch\\screenshots\\Zero Tolerance (UE) [!]-200420-222454.png",
+      "path": ".\\screenshots\\Zero Tolerance (UE) [!]-200420-222454.png",
       "label": "",
       "core_path": "builtin",
       "core_name": "imageviewer",
@@ -256,7 +256,7 @@
       "db_name": ""
     },
     {
-      "path": "D:\\Games\\RetroArch\\screenshots\\Zero Tolerance (UE) [!]-200420-223443.png",
+      "path": ".\\screenshots\\Zero Tolerance (UE) [!]-200420-223443.png",
       "label": "",
       "core_path": "builtin",
       "core_name": "imageviewer",
