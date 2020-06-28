@@ -1,3 +1,4 @@
-!/screenshots/
-!/states/
-*
+/*
+!.gitignore
+!screenshots/
+!states/
